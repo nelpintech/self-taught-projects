@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("My first java code from a Maven based java program");
 		System.out.println("Changed in Git Hub");
+		System.out.println("New feature branch feature-A");
 	}
 
 }
